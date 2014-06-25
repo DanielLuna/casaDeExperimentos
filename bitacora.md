@@ -2,8 +2,8 @@
  *Antes*: 
 
 # Junio
-25 ||::Mie:: __pedro:__ ----- __dani:__ actualizó bitácora __esteban:__-----
-__pipe:__ ----- __johnny:__ ----- __gnomo:__ Nos compartió su charla
+25 ||::Mie:: __pedro:__ Actualiza documentación y evalúa talleres,divulgaciones, charlas__dani:__ actualizó bitácora y prepara charla en P.B Manuel Mejía Vallejo__esteban:__Documentando, Chuck
+__pipe:__ Actualiza documentación __johnny:__ Prepara charla P.B Manuel Mejía Vallejo __gnomo:__ Nos compartió su charla y sigue depurandola
 
 
 24 ||::Mar::__pedro:__Participó en reunión de equipo __dani:__Preparó charla en el P.B Manuel Mejía Vallejo, realizó diligencias personales y ayudó a Johnny con atari punk y electrónica  __esteban:__ Preparó, impartió charla en el P.B Manuel Mejía Vallejo
@@ -14,7 +14,7 @@ __pipe:__Participación en la fiesta de la música en el parque del Poblado __jo
 
 20 ||::vie::__pedro:__ asistió a  la muestra de repertorio de coros y tradicionales con Fer franco y Tita, en la tarde activación en 2 UVAS, en la noche participación en Medellín despierta en P.B de Guayabal __dani:__en la noche participación en Medellín despierta en P.B de Guayabal  __esteban:__asistió a  la muestra de repertorio de coros y tradicionales con Fer franco y Tita, en la tarde activación en 2 UVAS, en la noche participación en Medellín despierta en P.B de Guayabal  __pipe:__ Envió las pistas  __johnny:__ asistió a  la muestra de repertorio de coros y tradicionales con Fer franco y Tita, en la tarde activación en 2 UVAS, en la noche participación en Medellín despierta en P.B de Guayabal __gnomo:__ Asistió al ensamble de Medellín despierta en P.B de Guayabal.
 
-Restricciones:* __pedro:__ ninguna __dani:__ salud __esteban:__ ninguna
+Restricciones:* __pedro:__ ninguna __dani:__ ninguna__esteban:__ ninguna
 __pipe:__ ninguna __johnny:__ ninguna __gnomo:__ ninguna
 
 
