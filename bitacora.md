@@ -2,7 +2,7 @@
  *Antes*: 
 
 # Junio
-25 ||::Mie:: __pedro:__ Actualiza documentación y evalúa talleres,divulgaciones, charlas__dani:__ actualizó bitácora y prepara charla en P.B Manuel Mejía Vallejo__esteban:__Documentando, Chuck
+25 ||::Mie:: __pedro:__ Actualiza documentación y evalúa talleres,divulgaciones, charlas__dani:__ actualizó bitácora y prepara charla en P.B Manuel Mejía Vallejo __esteban:__ Documentando, Chuck
 __pipe:__ Actualiza documentación __johnny:__ Prepara charla P.B Manuel Mejía Vallejo __gnomo:__ Nos compartió su charla y sigue depurandola
 
 
